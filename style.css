@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    font-family: 'VT323', monospace;
+}
+.links {
+    text-align: center;
+    color: #D03A55;
+}
+.links:hover {
+    color: #E5405E;
+}
+.socials {
+    vertical-align: middle;
+}
+#social {
+    text-align: center;
+    color: #E5405E;
+}
+p {
+    color: white;
+}
+h2 {
+    color: #E5405E ;
+    text-align: center;
+}
+button:hover{
+    color: #E5405E;
+}
+#voteLink {
+    color: #D03A55;
+}
+#voteLink:hover{
+    color: #E5405E;
+}
+#I5Preview {
+    color: #D03A55;
+}
+#I5Preview:hover{
+    color: #E5405E;
+}
